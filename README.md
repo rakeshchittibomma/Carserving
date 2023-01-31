@@ -8,7 +8,7 @@ This web based Carserving application has been developed for the accomplishment 
 
 * Project Demo URL * -https://thankful-plant-08df64900.2.azurestaticapps.net
 
-* Project Demo video URL * - https://youtu.be/K9Eqq8njOig
+* Project Demo video URL * - 
 
 Features and Functionalities 😃
 Interactive and responsive UI.
