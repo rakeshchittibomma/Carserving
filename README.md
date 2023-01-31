@@ -48,7 +48,7 @@ Included the feedback Survey form to increase the scope of improvement
 
 
 
-### Static wed apps -
+### Static web apps -
 ![R07](https://user-images.githubusercontent.com/117899835/214002500-e2751d40-cbde-46dd-90ea-ff0853cddf5b.png)
 
 
